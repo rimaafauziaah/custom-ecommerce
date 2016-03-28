@@ -14,3 +14,5 @@ Alasan kami memilih ini dikarenakan besarnya peluang untuk membuka usaha Custom 
 [Vans Shoes] http://www.vans.com/custom-old-skool-configurator.html?productId=p_20331&page=configure&audience=men
 
 [PBteen] http://www.pbteen.com/shop/girls-bedding/girls-bedding-tool/?cm_type=gnav
+
+[Flowchart Custom-Ecommerce] https://docs.google.com/presentation/d/1cFb6TgGBC86MYk2XHcsbKXq1VmHFoT0vWAYSecxwTtw/edit?usp=sharing
