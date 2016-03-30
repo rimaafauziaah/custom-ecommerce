@@ -15,4 +15,4 @@ Alasan kami memilih ini dikarenakan besarnya peluang untuk membuka usaha Custom 
 
 [PBteen] http://www.pbteen.com/shop/girls-bedding/girls-bedding-tool/?cm_type=gnav
 
-[Flowchart Custom-Ecommerce] https://docs.google.com/presentation/d/1cFb6TgGBC86MYk2XHcsbKXq1VmHFoT0vWAYSecxwTtw/edit?usp=sharing
+https://docs.google.com/document/d/17zxRl78JWFWIzy9VkoH7mTq5atBol2oLpg53yGFRSM8/edit
