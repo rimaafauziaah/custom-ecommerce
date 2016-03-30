@@ -1,4 +1,4 @@
-[Create Your Own Product] (https://github.com/desta88/custom-ecommerce.git)
+[Custom Ecommerce] (https://github.com/desta88/custom-ecommerce.git)
 ==========================================
 
 Mengapa kami membuat sebuah Custom Produk untuk Ecommerce, dikarenakan sebuah ecommerce khususnya di Indonesia hanya menjual Produk yang sudah ditentukan oleh para penjual dan hanya memiliki sedikit pilihan tanpa bisa memenuhi apa yang diinginkan oleh konsumen. Lalu bagaimana jika pelanggan ingin berbeda dengan yang lain? 
